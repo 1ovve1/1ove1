@@ -1,6 +1,20 @@
-- 👋 Hi, I'm Andrey, but u may call me a Lowel (like one of the Walter Scott books characters, yeah, imma nerd as Foo)
-- 👀 I’m interested in spagetties, biology (bugs... ukwis? 😂😂😂 yeah, imma shitty joker too)
-- 🌱 I'm currently learning how to flip my butterfly blade to the rap track "BONES - CALCIUM" after php debugging and imagine scenario where i'll cut off my fingers
-- 📫 U can reach me by this email: 10vvvvvv31@gmail.com (but girls please stop sending me ur nodes im not like ur js code)
+Hello, anyone there???
 
-peace ✌
+My name is Andrey Bulavskiy, im a 23 years old PHP developer from Smolensk, Russia.
+
+Write on PHP about 2 years. My stack now is:
+*Backend:
+  + PHP: 7.1-8.2;
+  + Frameworks: laravel (8+) and slim 4;
+  + Libraries: PHPUnit, pest, sanctum, inertia;
+  + DB: mysql, mariadb, redis (poor);
+*Frontend:
+  + Frameworks: VueJS (2, 3);
+  + Libraries: element-plus, vuex, vue-router, axios;
+
+I use this github for my TREASURES, but the most successful from them:
+* GAR BD FIAS parser: https://github.com/1ovve1/gar-address-verification-api;
+* Immutable sql builder: https://github.com/1ovve1/query-box;
+* Project Zomboid dedicited server manager bot in telegram: https://github.com/1ovve1/project-zomboid-server-docker-telegram-bot.
+
+Ah, yes, im also have a bachelor degree in informatics and computer engineering, but it's kind of unuseful thing i guess. I just use it for my coffee stand.
