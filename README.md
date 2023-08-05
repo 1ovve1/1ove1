@@ -3,12 +3,12 @@ Hello, anyone there???
 My name is Andrey Bulavskiy, im a 23 years old PHP developer from Smolensk, Russia.
 
 Write on PHP about 2 years. My stack now is:
-*Backend:
+* Backend:
   + PHP: 7.1-8.2;
   + Frameworks: laravel (8+) and slim 4;
   + Libraries: PHPUnit, pest, sanctum, inertia;
   + DB: mysql, mariadb, redis (poor);
-*Frontend:
+* Frontend:
   + Frameworks: VueJS (2, 3);
   + Libraries: element-plus, vuex, vue-router, axios;
 
